@@ -17,25 +17,19 @@
 
 ---
 
-## 🧠 `whoami`
+## 👩‍💻 About me
 
-```text
-$ whoami
-nancy
+I'm a Communication and Information Engineering graduate (Capital University, formerly Helwan University, class of 2026) based in Cairo, Egypt. I work as an **SoC Integration Engineer** and **RTL Verification Engineer**, and I was **technical lead** of my graduation project, RISCyLUT, sponsored by Si-Vision.
 
-$ cat about.txt
-B.Sc. Communication & Information Engineering, Capital University (formerly Helwan University), 2026
-SoC Integration Engineer + RTL Verification Engineer
-Technical lead of RISCyLUT, my graduation project (sponsored by Si-Vision)
-Works on: hardware-software co-design, RTL verification, digital IC design
+**What I work on**
 
-$ echo $CURRENT_FOCUS
-SoC integration + exploring the digital verification world
+- 🔗 Hardware-software co-design
+- ✅ RTL verification
+- 🧩 Digital IC design and SoC integration
 
-$ echo $LOOKING_FOR
-full-time roles in RTL design, ASIC / digital IC design, SoC integration,
-or hardware accelerator architecture, ideally building next-gen silicon for compute or AI
-```
+**Current focus:** SoC integration, and exploring the world of digital verification.
+
+**Looking for:** full-time roles in RTL design, ASIC / digital IC design, SoC integration, or hardware accelerator architecture, ideally at a company building next-generation silicon for compute or AI.
 
 > 💬 **Engineering philosophy:** I'd rather spend an extra hour reading a waveform than guess at a fix. Correctness, traceability, and clear documentation matter as much as a working design.
 
