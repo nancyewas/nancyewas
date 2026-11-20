@@ -94,27 +94,6 @@ flowchart LR
 
 ---
 
-## 🐞 Debug log
-
-```text
-$ make sim
-[ OK ] compiling testbench...
-[ OK ] all tests passed
-[WARN] waveform disagrees with my mental model
-[INFO] the waveform is never wrong
-[ OK ] mental model updated
-
-$ git commit -m "fix: it was the reset. it is always the reset."
-```
-
-```systemverilog
-// A hardware engineer's favorite lie:
-always_comb begin
-  // "This will definitely synthesize the way I expect."
-end
-```
-
----
 
 ## 📊 GitHub stats
 
